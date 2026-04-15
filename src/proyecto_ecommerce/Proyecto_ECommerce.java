@@ -16,7 +16,6 @@ public class Proyecto_ECommerce extends Application {
         primaryStage.setScene(new Scene(root));
         primaryStage.setResizable(false);
         primaryStage.show();
-        
     }
     
     public static void main(String[] args) {
